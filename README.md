@@ -9,7 +9,7 @@
 
 ## Χρονοπρογραμματισμός εξετάσεων Πανεπιστημίου
 
-![](https://iq.opengenus.org/content/images/2018/07/gc2.PNG)
+![](https://jeremykun.files.wordpress.com/2011/07/paris-graph-colored.png)
 
 **Τεχνική Αναφορά**
 
