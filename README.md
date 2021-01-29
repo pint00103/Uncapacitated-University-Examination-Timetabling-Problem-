@@ -54,7 +54,7 @@ car‐f‐92 car‐f‐92.stu 543 18419 55522//car‐s‐91 car‐s‐91.stu 682
 
 ## Οδηγίες εγκατάστασεις Eclipse για Windows
 
-**1.** Κατεβάστε to Eclipse από (~~Eclipse Downloads|The Eclipse Foundation~~)[https://www.eclipse.org/downloads/]. Επιλέξτε το Download x86_64.
+**1.** Κατεβάστε to Eclipse από [Eclipse Downloads|The Eclipse Foundation] (https://www.eclipse.org/downloads/). Επιλέξτε το Download x86_64.
 
 **2.** Αφού ολοκληρωθεί η λήψη εντοπίστε το αρχείο ,και κάντε διπλό κλικ στο αρχείο εγκατάστασης του eclipse με την επέκταση .exe .
 
