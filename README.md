@@ -1,4 +1,4 @@
-# University-Examination-Timetabling-Problem
+# University Examination Timetabling Problem in Cpp
 Όνομα:Χριστίνα  Επώνυμο:Βανάκα ΑΜ:103 
 
 Μεταπτυχιακό Πληροφορικής και Δικτύων (MSc)
