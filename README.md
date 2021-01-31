@@ -1,4 +1,4 @@
-# Uncapacitated University Examιnation Timetabling Problem 
+# Uncapacitated University Examination Timetabling Problem 
 Όνομα:Χριστίνα  Επώνυμο:Βανάκα ΑΜ:103 
 
 Μεταπτυχιακό Πληροφορικής και Δικτύων (MSc)
