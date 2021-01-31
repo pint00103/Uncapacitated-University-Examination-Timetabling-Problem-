@@ -2,16 +2,14 @@
  * exams.cpp
  *
  *
- * Author: Βανάκα Χριστίνα
+ * Author: Ξ’Ξ±Ξ½Ξ¬ΞΊΞ± Ξ§ΟΞΉΟƒΟ„Ξ―Ξ½Ξ±
  */
 
 
 
 
 
-// ανάγνωση δεδομένων από ένα αρχείο προβλήματος (με κατάληξη stu) που περιέχει
-// πληροφορίες για τις εξετάσεις μαθημάτων στις οποίες είναι εγγεγραμμένος
-// ο κάθε σπουδαστής
+
 
 #include <iostream>
 #include <fstream>
@@ -112,7 +110,7 @@ int count_common_elements(set<int> s1, set<int> s2)
 
 void read_data(string fn, int students, int exams)
 {
-    // ανάγνωση δεδομένων
+    // Γ΅Γ­ΓΓ£Γ­ΓΉΓ³Γ§ Γ¤Γ¥Γ¤Γ―Γ¬ΓΓ­ΓΉΓ­
     vector<set<int>> exam_students(exams + 1);
     fstream fs(fn);
     if (!fs.is_open())
@@ -149,7 +147,7 @@ void read_data(string fn, int students, int exams)
               cout << endl;
     }
 
-    // δημιουργία πίνακα γειτνίασης
+    // Γ¤Γ§Γ¬Γ©Γ―ΓµΓ±Γ£ΓΓ΅ Γ°ΓΓ­Γ΅ΓªΓ΅ Γ£Γ¥Γ©Γ΄Γ­ΓΓ΅Γ³Γ§Γ²
     // cout << "Adjacency Matrix" << endl;
     int *adj_matrix = new int[exams * exams];
     for (int i = 0; i < exams; i++)
@@ -170,7 +168,7 @@ void read_data(string fn, int students, int exams)
         }
     }
 
-    // Υπολογισμός συντελεστή πυκνότητας
+    // Γ•Γ°Γ―Γ«Γ―Γ£Γ©Γ³Γ¬ΓΌΓ² Γ³ΓµΓ­Γ΄Γ¥Γ«Γ¥Γ³Γ΄Γ Γ°ΓµΓªΓ­ΓΌΓ΄Γ§Γ΄Γ΅Γ²
     int c = 0;
     for (int i = 0; i < exams; i++)
     {
